@@ -27,7 +27,7 @@
                                 </svg>
                                 <div class="download-loaded text-white hidden"></div>
                             </div>
-                            <a href="@/assets/CV.pdf" download="CV.pdf" class="pl-2 text-primary">Download CV</a>
+                            <a href="@/assets/cv.pdf" download="cv.pdf" class="pl-2 text-primary">Download CV</a>
                             </div>
                         </button>
                     </div>
