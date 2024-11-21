@@ -11,7 +11,7 @@
           <div class="flex w-full h-96 min-h-[24rem] lg:min-h-[none] lg:w-full lg:h-full items-center relative">
             <div class="absolute z-0 top-1/2 -translate-y-1/2 w-5/6 right-0 h-[calc(80%-20px)]  bg-gradient-to-br from-[#670ccf] opacity-10 blur-2xl"></div>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4 p-8 rounded-lg shadow-lg border border-primary bg-[#111a3e]">
-              <h2 class="text-2xl font-semibold text-white mb-4 col-span-2">My Skills</h2>
+              <h2 class="text-2xl font-semibold text-white mb-4 col-span-2 text-center">My Skills</h2>
 
               <div class="mb-4">
                 <h3 class="text-xl font-semibold text-white mb-2">PHP</h3>
